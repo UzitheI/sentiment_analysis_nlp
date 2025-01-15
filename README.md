@@ -4,7 +4,7 @@ This project focuses on performing sentiment analysis using Natural Language Pro
 
 ## Project Overview
 
-The repository includes code that applies NLP methods to analyze sentiment in textual data. Specifically, it contains a Jupyter Notebook titled `Sentiment_analysis_IMDB.ipynb`, which likely demonstrates sentiment analysis on IMDB movie reviews.
+The repository includes code that applies NLP methods to analyze sentiment in textual data. It contains a Jupyter Notebook titled `Sentiment_analysis_IMDB.ipynb`, which demonstrates sentiment analysis on IMDB movie reviews.
 
 ## Features
 
